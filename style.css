@@ -1,0 +1,16 @@
+
+body {
+    font-family: "Source Sans Pro", "Open Sans", sans-serif;
+}
+
+td {
+    padding: 3px;
+}
+
+.aheader {
+    width: 70%;
+}
+
+.eheader, .uheader, .sheader {
+    width: 10%;
+}
